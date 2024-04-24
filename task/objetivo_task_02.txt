@@ -1,0 +1,3 @@
+largura max de 1140px
+
+componentizar o modal, os trechos de códigos duplicados
